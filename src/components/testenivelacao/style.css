@@ -1,0 +1,15 @@
+.mainComp{
+    width: 80%!important;
+    display: flex!important;
+    flex-direction: column!important;
+    align-items: center!important;
+    max-width: 990px!important;
+    margin: 50px!important;
+    align-content: center!important;
+}
+
+.btnpro{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}

@@ -1,0 +1,23 @@
+
+.my{
+    margin-top: 0rem!important;
+    margin-bottom: 0rem!important;
+    
+}
+.titfather{
+    background-color: transparent!important;
+}
+.tit{
+    color: #fff!important;
+}
+.solicite{
+    font-size: 16px;
+}
+
+@media(max-width: 475px){
+    
+    img{
+        display: none;
+    }
+    
+}

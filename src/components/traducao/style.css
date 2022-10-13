@@ -1,0 +1,8 @@
+.maintrans{
+    background-color: #fff;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}

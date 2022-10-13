@@ -1,0 +1,145 @@
+[
+    {
+    "Titulo":"If you're hungry there ______ pizza in the fridge.",
+    "a":"are some",
+    "b":"is some",
+    "c":"are any",
+    "d":"is any",
+    "certa":"b"
+},
+    {
+    "Titulo":"SUPORT significa:",
+    "a":"Suportar",
+    "b":"apoiar",
+    "c":"Suporte",
+    "d":"sporte",
+    "certa":"b"
+},
+    {
+    "Titulo":"A palavra COSTUME significa:",
+    "a":"Costume de fazer algo",
+    "b":"Acostumar",
+    "c":"Fantasia",
+    "d":"Pijama",
+    "certa":"c"
+},
+    {
+    "Titulo": "Qual a tradução correta para: I do speak english",
+    "a": "eu nao falo inglês",
+    "b": "eu preciso trabalhar",
+    "c": "eu falo inglês",
+    "d": "eu preciso de dinheiro!",
+    "certa":"c"
+},
+     {
+    "Titulo": "qual a tradução para: I want to love you, everyday and everynight - da musica de Bob marley - is this love",
+    "a": "Eu quero te amar, todos os dias e todas as noites",
+    "b": "eu  nao quero te amar, nem todos os dias enem todas as noites",
+    "c": "todos os dias e todas as noites eu irei te amar",
+    "d": "todos os dias e todas as noites, irei te adorar",
+    "certa":"a"
+},
+{
+    "Titulo":"Choose the correct sentence to complete the conversation:  A) Excuse me.________________________________ B)Yes. There's a bank on the next corner.",
+    "a":"There is a bank near here.",
+    "b":"What's a bank near here?",
+    "c":"Is there a bank near here?",
+    "d":"How there a bank near here?",
+    "certa":"c"
+},
+     {
+    "Titulo": "how much more money do you need to achieve your goal?",
+    "a": "I really want a new car.",
+    "b": "I love music, that's the reason I deserve some money in my bank account ",
+    "c": "Try, me, try me,",
+    "d": "I just need a couple of dollars to achieve my goal",
+    "certa":"d"
+},
+{
+    "Titulo": "Have you seen the new eletric car?",
+    "a": "yes I don't have seen the new tesla eletric car",
+    "b": "yes I does and he do want a new of these new eletric cars",
+    "c": "yes sr, I have seen those new eletric car, and also I am buying one for myself!",
+    "d": "yes I haven't seen one of these",
+    "certa":"c"
+},
+{
+    "Titulo":"DATA significa:",
+    "a":"Data(Dia/Mês/Ano)",
+    "b":"Dados de informação",
+    "c":"adotar",
+    "d":"mês de aniversário",
+    "certa":"b"
+},
+{
+    "Titulo": "hold there buddy.... want do you want here?",
+    "a": "I come here today because I want to grab those papers that I have left here yesterday.",
+    "b": "Buddy here, I am need to wash my dog ",
+    "c": "Hold your horses, you can go ahead",
+    "d": "Stop please!",
+    "certa":"a"
+},
+{
+    "Titulo": "Complete the blank: I don't want _ new apartment",
+    "a": "I don't want a new apartment",
+    "b": "I don't want the new apartment",
+    "c": "I don't want an new apartment",
+    "d": "I don't want at new apartment",
+    "certa":"a"
+}, {
+    "Titulo": "Complete the blank space: I really wish you _____ a better luck next time",
+    "a": "I really wish you has a better luck",
+    "b": "I really wish you had a better luck",
+    "c": "I really wish you have a better luck",
+    "d": "I really wish you went a better luck",
+    "certa":"b"
+},
+{
+    "Titulo":"Select the correct sentence:",
+    "a":"She is tired to work",
+    "b":"She is tired the work",
+    "c":"She is tired of working",
+    "d":"She is tired of work",
+    "certa":"c"
+},
+{
+    "Titulo": "Answer this question: What school did you go to?",
+    "a": "I go to school that public school",
+    "b": "I went to traditional english schools, and i am still haven't learnt english properly ",
+    "c": "he goes to dom bosco school",
+    "d": "she went to a catholic school",
+    "certa":"b"
+},
+{
+    "Titulo":"Choose the correct option to fill in all the blanks: There's a new house for ______(1) on Melrose Ave. It's a big house with four _______(2), two bathrooms, two living rooms and a modern _______(3). The house is near some private schools and it is ______(4) the famous Gladstone Park. ________(5) two subway stations nearby, only a short ten minutes walk. Come visit it, it's a great opportunity to create a wonderful family home. ",
+    "a":"(1)sale (2)bedrooms (3)kitchen (4)close to (5)There are",
+    "b":"(1)sales (2)kitchen (3)living rooms (4)in (5)There is",
+    "c":"(1)sale (2)bedrooms (3)kitchen (4)close to (5)There is",
+    "d":"(1)sales (2)bedroom (3)kitchens (4)close to (5)There are",
+    "certa":"a"
+},
+{
+    "Titulo":"Choose the correct option to complete the sentence:  “______ I ask you a question, Mr. Jones?”",
+    "a":"does",
+    "b":"ask",
+    "c":"am",
+    "d":"could",
+    "certa":"d"
+},
+{
+    "Titulo":" (Mackenzie-2000) Assinale a alternativa que corretamente preenche as lacunas I, II e III das frases a seguir: He __________(I) me a favor 2 months ago. They __________(II) an attempt to escape.I __________(III) an important decision last night.",
+    "a":"did – made – made",
+    "b":"made – did – made",
+    "c":"did – made – did",
+    "d":"made – made – made",
+    "certa":"d"
+},
+{
+    "Titulo":"Which of the following alternatives has the same verb tense as the sentence: Generation Y grew up with technology?",
+    "a":"She will go to school by car.",
+    "b":" She goes to school by car.",
+    "c":"She went to school by car.",
+    "d":"She had gone to school by car.",
+    "certa":"c"
+}
+]
