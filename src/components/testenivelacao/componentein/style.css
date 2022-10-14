@@ -6,8 +6,7 @@ button{
     align-items: center;
     align-content: center;
     flex-direction: column;
-    padding: 20px;
-    margin: 20px;
+    
     min-width: 212px;
 }
 label{
@@ -36,4 +35,51 @@ h1{
 }
 p{
     padding: 40px;
+}
+
+@media(max-width : 600px ){
+    
+    .btngo{
+        margin: 10px;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        padding: 10px;
+        text-align: center;
+    }
+    .mainquiz{
+        padding: 0px;
+        margin: 0px;
+    }
+    .father{
+        display: flex;
+        justify-content: center;
+        padding: 0px;
+        margin: 0px;
+    }
+    .Tituloquiz{
+        margin: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+    .pres{
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        font-size: 14px;
+    }
 }

@@ -4,6 +4,14 @@
     margin-bottom: 0rem!important;
     
 }
+.div2{
+    display: flex!important;
+    flex-direction: row!important;
+    justify-content: space-evenly!important;
+    align-items: flex-end!important;
+    
+    font-size: 2rem!important;
+}
 .titfather{
     background-color: transparent!important;
 }
@@ -13,11 +21,45 @@
 .solicite{
     font-size: 16px;
 }
+.imgindex{
+    width: 300px!important;
+    height: 300px!important;
+}
 
-@media(max-width: 475px){
-    
-    img{
-        display: none;
+@media(max-width: 600px){
+    .titfather{
+        padding-top: 2px!important;
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+        padding-bottom: 0px!important;
+        ;
     }
-    
+    .father{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center!important;
+        text-align: center!important;
+    }
+
+    .text-muted{
+        font-size: 27px !important;
+    }
+    .div2{
+        display: flex!important;
+        flex-direction: column!important;
+        justify-content: space-evenly!important;
+        align-items: center!important;
+        font-size: 2rem!important;
+    }
+    .text2{
+        font-size: 19px!important;
+    }
+    ul{
+        font-size: 13px;
+        font-weight: 600;
+    }
+    li{
+        margin: 0px;
+        text-align: left;
+    }
 }

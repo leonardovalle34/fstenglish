@@ -19,14 +19,6 @@ const Main = ()=>{
         borderRadius : 0, 
     }
 
-    const styles2={
-        display: "flex",
-        flexDirection: 'row',
-        justifyContent: 'space-evenly',
-        alignItems: 'flex-end',
-        padding: '83px',
-        fontSize: "2rem"
-    }
     const stylesFather={
         display: 'flex',
         flexDirection: 'row',
@@ -41,12 +33,8 @@ const Main = ()=>{
                     <CardImg
                     alt="no conforto de casa"
                     src={img1}
-                    style={{
-                        height: 300,
-                        width : 300,
-                    }}
-                    top
-                    
+                    top  
+                    className="imgindex"                  
                     />
                     <CardBody className="titfather">
                         <CardTitle tag="h5" className="tit">
@@ -54,16 +42,17 @@ const Main = ()=>{
                         </CardTitle>
                         <CardText className="titfather">
                             <small className="text-muted">
-                            <strong>100% real, 100% funcional!</strong>
+                                <div><strong>100% real</strong></div>
+                                <div><strong>100% funcional</strong></div>
                             </small>
                         </CardText>
                     </CardBody>
                 </div>
             </Card>
-            <Card className="my-2 div2" style={styles2}>
+            <Card className="my-2 div2">
                 <CardBody className="titfather">
                 <CardText>
-                    <small className="text-muted">
+                    <small className="text-muted text2">
                     <ul>
                         <li><strong>Aulas totalmente Online e Pesonalizadas</strong></li>
                         <li><strong>Aulas ao vivo</strong></li>
@@ -80,13 +69,8 @@ const Main = ()=>{
                 <CardImg
                     alt="aula ao vivo"
                     src={img2}
-                    style={{
-                        height: 300,
-                        width : 300
-                    }}
                     right
-                
-                />
+                    className="imgindex"/>
             </Card>
         </>
     )

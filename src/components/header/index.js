@@ -28,7 +28,7 @@ export default class Header extends React.Component {
     return (
         <div>
         <Navbar color="blue">
-            <NavbarBrand href="/" className="mr-auto"><img src={img}></img></NavbarBrand>
+            <NavbarBrand href="/" className="mr-auto"><img className="imglogo" src={img}></img></NavbarBrand>
             <NavbarToggler onClick={this.toggleNavbar} className="mr-2"/>
             <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>

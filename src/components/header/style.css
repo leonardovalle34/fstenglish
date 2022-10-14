@@ -14,11 +14,16 @@
     border: none!important;
 
 }
-img{
-    height: 50px;
+.imglogo{
+    height: 40px;
     margin-top: -25px;
 }
 .mr-auto{
     height: 3vh;
+}
+@media(max-width:600px){
+    .imglogo{
+        height: 40px;
+    }
 }
 
