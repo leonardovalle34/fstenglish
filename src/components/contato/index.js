@@ -18,7 +18,7 @@ const Contatos = ()=>{
                         
                             <form action="https://api.staticforms.xyz/submit" method="POST">
                                 <input type="hidden" name="accessKey" value="a1ed6830-5330-47a2-b98b-7783ecdac8ba"></input>
-                                <input type="hidden" name="redirectTo" value="http://fstenglish.netlify.app/contato"></input>    
+                                <input type="hidden" name="redirectTo" value="http://fstenglish.vercel.app/contato"></input>    
                                 <FormGroup>
                                     <Label for="Email">
                                     Email

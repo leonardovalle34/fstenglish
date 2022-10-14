@@ -42,7 +42,7 @@ const Quiz = ()=>{
                 <div>
                     <h1 className='Tituloquiz'>Você obteve uma nota menor que 5 pontos do total de 10 pontos</h1>
                     <p className='pres'>
-                        Parabêns pela iniciativa de estudar inglês, seu nivel de ingles é basico e para isso é necessario se envolver com a lingua inglesa diariamente, solicite um contato de nossos consultores através do botão de whats app que entraremos em contato e te ajudaremos a alcançar seus objetivos!  
+                        Parabêns pela iniciativa de estudar inglês, seu nível de inglês é basico e para isso é necessario se envolver com a lingua inglesa diariamente, solicite um contato de nossos consultores através do botão de whats app que entraremos em contato e te ajudaremos a alcançar seus objetivos!  
                     </p>
                 </div>
             )
@@ -51,7 +51,7 @@ const Quiz = ()=>{
                 <div>
                     <h1 className='Tituloquiz'>Você obteve {score} pontos do total de 10 pontos</h1>
                     <p className='pres'>
-                        Parabêns pela iniciativa de estudar inglês, seu nivel de ingles é intermediário e para isso é necessario se envolver com a lingua inglesa diariamente, solicite um contato de nossos consultores através do botão de whats app que entraremos em contato e te ajudaremos a alcançar seus objetivos!  
+                        Parabêns pela iniciativa de estudar inglês, seu nível de ingles é intermediário e para isso é necessario se envolver com a lingua inglesa diariamente, solicite um contato de nossos consultores através do botão de whats app que entraremos em contato e te ajudaremos a alcançar seus objetivos!  
                     </p>
                 </div>
             )
@@ -61,7 +61,7 @@ const Quiz = ()=>{
                 <div>
                     <h1 className='Tituloquiz'>Você obteve {score} pontos do total de 10 pontos</h1>
                     <p className='pres'>
-                        Parabêns pela iniciativa de estudar inglês, seu nivel de ingles é avançado, e para que você nao perca seu bom nivel de inglês é importante que você pratique conversaçao com frequencia, solicite um contato de nossos consultores através do botão de whats app que entraremos em contato e te ajudaremos a alcançar seus objetivos!  
+                        Parabêns pela iniciativa de estudar inglês, seu nível de ingles é avançado, e para que você nao perca seu bom nível de inglês é importante que você pratique conversaçao com frequencia, solicite um contato de nossos consultores através do botão de whats app que entraremos em contato e te ajudaremos a alcançar seus objetivos!  
                     </p>
                 </div>   
             ) 
