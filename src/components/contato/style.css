@@ -17,8 +17,8 @@
     height: 100px;
 }
 .mainfatherform{
-    width: 80%!important;
-    padding: 10px;
+    width: 95%!important;
+    padding: 15px;
     background: white;
     border-radius: 5px;
 }
@@ -32,4 +32,11 @@
     display: flex;
     justify-content: center;
     
+}
+.divbtn{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 40%;
 }

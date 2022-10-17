@@ -45,9 +45,10 @@ const Contatos = ()=>{
                                         </textarea>
                                     </FormGroup>
 
-                                    <div>
+                                    <div className='divbtn'>
                                         <Button
                                             color="primary"
+                                            className='btn'
                                         >
                                             Enviar
                                         </Button>
