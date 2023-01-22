@@ -1,6 +1,6 @@
 import React from 'react';
 import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink } from 'reactstrap';
-import img from "../../imgs/logomenu1.png";
+import img from "../../imgs/logopqn.png";
 import "./style.css"
     
     
